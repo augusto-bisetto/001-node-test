@@ -1,0 +1,1 @@
+//idea: a website where you can do exercise, have competion with others with dome rewards
